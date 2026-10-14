@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# PyInstaller build artifacts & compiled binaries
+build/
+dist/
+*.manifest
+*.spec.bak
+*.exe
+
+# User runtime configuration (auto-generated on first run)
+config.json
+
+# Scratch and analysis temp logs
+files_info.txt
+file_analysis.txt
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
